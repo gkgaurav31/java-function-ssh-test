@@ -28,6 +28,6 @@ ssh root@localhost -p 2222 -c aes128-cbc,3des-cbc
 
 # test on azure function app
 
-Go to: https://<your-webapp-name>.scm.azurewebsites.net/webssh/host
+Go to: `https://<your-webapp-name>.scm.azurewebsites.net/webssh/host`
 
 ![SSH on WebApp](ssh-img.png)
