@@ -22,7 +22,7 @@ docker logs test
 
 # test ssh
 
-# use Docker! as the pwd
+> use Docker! as the pwd
 
 ssh root@localhost -p 2222 -c aes128-cbc,3des-cbc
 
